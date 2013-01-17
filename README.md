@@ -1,0 +1,4 @@
+Bendras.SocialMarket
+====================
+
+Personal ideas
