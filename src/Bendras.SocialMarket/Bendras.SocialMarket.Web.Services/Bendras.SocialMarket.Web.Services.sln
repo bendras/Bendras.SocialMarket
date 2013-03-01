@@ -1,0 +1,18 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+# SharpDevelop 5.0
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bendras.SocialMarket.Web.Services", "Bendras.SocialMarket.Web.Services.fsproj", "a0564e59-b29e-4d7b-9743-d524ab4bc11b"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		a0564e59-b29e-4d7b-9743-d524ab4bc11b.Debug|Any CPU.Build.0 = Debug|Any CPU
+		a0564e59-b29e-4d7b-9743-d524ab4bc11b.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		a0564e59-b29e-4d7b-9743-d524ab4bc11b.Release|Any CPU.Build.0 = Release|Any CPU
+		a0564e59-b29e-4d7b-9743-d524ab4bc11b.Release|Any CPU.ActiveCfg = Release|Any CPU
+	EndGlobalSection
+EndGlobal

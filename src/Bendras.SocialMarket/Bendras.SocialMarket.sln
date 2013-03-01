@@ -3,6 +3,12 @@ Microsoft Visual Studio Solution File, Format Version 12.00
 # Visual Studio 2012
 Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bendras.SocialMarket.Web.App", "Bendras.SocialMarket.Web.App\Bendras.SocialMarket.Web.App.fsproj", "{7E88A985-6233-4036-9DDC-548E17FD32EC}"
 EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bendras.SocialMarket.Web.Services", "Bendras.SocialMarket.Web.Services\Bendras.SocialMarket.Web.Services.fsproj", "{A0564E59-B29E-4D7B-9743-D524AB4BC11B}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bendras.SocialMarket.Domain", "Bendras.SocialMarket.Domain\Bendras.SocialMarket.Domain.fsproj", "{C4789047-F6EE-42D9-8231-461DA3F8E9C6}"
+EndProject
+Project("{F2A71F9B-5D33-465A-A702-920D77279786}") = "Bendras.SocialMarket.Model", "Bendras.SocialMarket.Model\Bendras.SocialMarket.Model.fsproj", "{4C8F2867-4F3F-4B46-A734-FCB72E70C46C}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -13,6 +19,18 @@ Global
 		{7E88A985-6233-4036-9DDC-548E17FD32EC}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{7E88A985-6233-4036-9DDC-548E17FD32EC}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{7E88A985-6233-4036-9DDC-548E17FD32EC}.Release|Any CPU.Build.0 = Release|Any CPU
+		{A0564E59-B29E-4D7B-9743-D524AB4BC11B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{A0564E59-B29E-4D7B-9743-D524AB4BC11B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{A0564E59-B29E-4D7B-9743-D524AB4BC11B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{A0564E59-B29E-4D7B-9743-D524AB4BC11B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{C4789047-F6EE-42D9-8231-461DA3F8E9C6}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C4789047-F6EE-42D9-8231-461DA3F8E9C6}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C4789047-F6EE-42D9-8231-461DA3F8E9C6}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C4789047-F6EE-42D9-8231-461DA3F8E9C6}.Release|Any CPU.Build.0 = Release|Any CPU
+		{4C8F2867-4F3F-4B46-A734-FCB72E70C46C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{4C8F2867-4F3F-4B46-A734-FCB72E70C46C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{4C8F2867-4F3F-4B46-A734-FCB72E70C46C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{4C8F2867-4F3F-4B46-A734-FCB72E70C46C}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
